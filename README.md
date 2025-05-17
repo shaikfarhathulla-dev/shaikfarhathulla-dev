@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaik Farhathulla</h1>
 <h3 align="center">A passionate Java FullStack developer from India</h3>
 <br>
-<br>
 
 - 🔭 I’m currently working on **Charity Connect Application**
 
@@ -24,7 +23,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vite,eclipse,postman,git,github,aws,pycharm,anaconda,notion" />
 </p>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/_shaikfarhath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shaikfarhath" height="30" width="40" /></a>
