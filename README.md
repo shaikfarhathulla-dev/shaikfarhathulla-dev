@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,java,spring,maven,mysql,c,py" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vite,eclipse,postman,git,github,aws,pycharm,anaconda,notion,slack" />
+  <img src="https://skillicons.dev/icons?i=vscode,vite,eclipse,postman,git,github,aws,pycharm,anaconda,notion" />
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
