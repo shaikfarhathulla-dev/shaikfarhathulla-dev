@@ -36,7 +36,7 @@
 <p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/56d7ee7f-b9e3-48e9-9af6-a056c43f26ab"/></p>
 
 <h1 align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&width=435&lines=Software+Engineer;Full+Stack+Developer;Freelancer+Web+Developer" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Platypi&size=25&pause=1000&color=3888FF&center=true&random=false&width=450&lines=Software+Engineer;Full+Stack+Developer;Freelancer+Web+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
