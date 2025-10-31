@@ -5,7 +5,7 @@
 </h1>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
-<h3 align="left">About Me</h3>
+<!-- <h3 align="left">About Me</h3> -->
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
 <li>🔭 I’m currently working on <b>Charity Connect Application</b>.</li>
 <li>👨‍💻 All of my projects are available at <a href="https://shaikfarhathulla-dev.github.io/portfolio/">Porfolio</a></li>
@@ -13,17 +13,6 @@
 <li>💻 Freelance Web Developer</li>
 <li>🧑‍🏫 Online Instructor</li>
 <li>⚡ Fun fact <b>I am creative and friendly</b>.</li>
-
-<br>
-<h1 align="left">Find Me Around The Web</h1>
-<div align="left">
-<a href="https://www.linkedin.com/in/shaik-farhathulla/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="shaik-farhathulla-dev-liinkedin"/></a></a>
-<a href="https://www.instagram.com/shaik_farhath93/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="shaik-farhathulla-dev-insta"/></a>
-<!-- <a href="https://twitter.com/theabdulsalman/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="theabdulsalman"/></a>
-<a href="https://youtube.com/theabdulsalman/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="theabdulsalman"/></a> -->
-<a href="mailto:shaikfarhathulla.dev@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="shaik-farhathulla-dev-mail"/></a>
-</div>
-
 
 
 <br>
@@ -37,6 +26,17 @@
   <img src="https://skillicons.dev/icons?i=vscode,vite,eclipse,postman,git,github,aws,pycharm,anaconda,notion" />
 </p>
  <img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/dff1a70b-2ec9-49dc-908b-f295e6cecdc1" alt="HTML" height="50" title="HTML">
+
+
+ <br>
+<h2 align="left">Find Me Around The Web</h2>
+<div align="left">
+<a href="https://www.linkedin.com/in/shaik-farhathulla/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="shaik-farhathulla-dev-liinkedin"/></a></a>
+<a href="https://www.instagram.com/shaik_farhath93/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="shaik-farhathulla-dev-insta"/></a>
+<!-- <a href="https://twitter.com/theabdulsalman/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="theabdulsalman"/></a>
+<a href="https://youtube.com/theabdulsalman/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="theabdulsalman"/></a> -->
+<a href="mailto:shaikfarhathulla.dev@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="shaik-farhathulla-dev-mail"/></a>
+</div>
 
 
 <!-- <br>
