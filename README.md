@@ -1,7 +1,7 @@
 <p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/56d7ee7f-b9e3-48e9-9af6-a056c43f26ab"/></p>
 
 <h1 align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Platypi&size=25&duration=2000&pause=1000&color=3888FF&center=true&random=false&width=450&lines=Software+Engineer;Full+Stack+Developer;Freelancer+Web+Developer;Online+Instructor" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Platypi&size=25&duration=2000&pause=1000&color=3888FF&center=true&random=false&width=450&lines=Software+Engineer;Full+Stack+Developer;Freelancer+Web+Developer;Online+Instructor" alt="Typing SVG" />
 </h1>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
@@ -15,7 +15,7 @@
 <li>⚡ Fun fact <b>I am creative and friendly</b>.</li>
 
 <br>
-<h2 align="left">Find Me Around The Web</h2>
+<h1 align="left">Find Me Around The Web</h1>
 <div align="left">
 <a href="https://www.linkedin.com/in/shaik-farhathulla/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="shaik-farhathulla-dev-liinkedin"/></a></a>
 <a href="https://www.instagram.com/shaik_farhath93/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="shaik-farhathulla-dev-insta"/></a>
