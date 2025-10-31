@@ -5,18 +5,17 @@
 </h1>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
 <li>🔭 I’m currently working on <b>Charity Connect Application</b>.</li>
-<li>👨‍💻 All of my projects are available at [Porfolio](https://shaikfarhathulla-dev.github.io/portfolio/)</li>
+<li>👨‍💻 All of my projects are available at <a href="https://shaikfarhathulla-dev.github.io/portfolio/">Porfolio</a></li>
 <li>💬 Ask me about <b>React, Angular, Java, SpringBoot, Bootstrap, Tailwind</b></li>
-<li>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mnqn1V9o0Sh8zjZiBNaU6O5NQmpuOfS_/view)</li>
 <li>💻 Freelance Web Developer</li>
 <li>🧑‍🏫 Online Instructor</li>
 <li>⚡ Fun fact <b>I am creative and friendly</b>.</li>
 
 <br>
-<h3 align="left">Find Me Around The Web</h3>
+<h2 align="left">Find Me Around The Web</h2>
 <div align="left">
 <a href="https://www.linkedin.com/in/shaik-farhathulla/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="shaik-farhathulla-dev-liinkedin"/></a></a>
 <a href="https://www.instagram.com/shaik_farhath93/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="shaik-farhathulla-dev-insta"/></a>
@@ -30,7 +29,7 @@
 <br>
 
 <div>
-<h3 align="left">Skill & Tools</h3>
+<h2 align="left">Skill & Tools</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,java,spring,maven,mysql,c,py" />
 </p>
@@ -45,9 +44,9 @@
 <p><a href="https://www.buymeacoffee.com/theabdulsalman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theabdulsalman" /></a></p> -->
 
 
-<br> <br>
+<!-- <br>
 <div align="left">
-<h3>🐍 My Contributions 🐍</h3>
+<h2>🐍 My Contributions 🐍</h2>
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikfarhathulla-dev/shaikfarhathulla-dev/output/github-contribution-grid-snake-dark.svg">
@@ -55,7 +54,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shaikfarhathulla-dev/shaikfarhathulla-dev/output/github-contribution-grid-snake.svg">
 </picture>
 </br>
-</div>
+</div> -->
 
 <!-- <div align="center">
 <img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/2353939e-9de5-443e-a560-b450cf27ddc5" />
