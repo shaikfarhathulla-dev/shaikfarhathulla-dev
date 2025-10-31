@@ -5,7 +5,7 @@
 </h1>
 
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
-<h2 align="left">About Me</h2>
+<h3 align="left">About Me</h3>
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
 <li>🔭 I’m currently working on <b>Charity Connect Application</b>.</li>
 <li>👨‍💻 All of my projects are available at <a href="https://shaikfarhathulla-dev.github.io/portfolio/">Porfolio</a></li>
