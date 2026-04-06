@@ -7,9 +7,9 @@
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
 <!-- <h3 align="left">About Me</h3> -->
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
-<li>🔭 I’m currently working on <b>Charity Connect Application</b>.</li>
+<li>🔭 I’m currently working on <b>Learning Management System</b>.</li>
 <li>👨‍💻 All of my projects are available at <a href="https://shaikfarhathulla-dev.github.io/portfolio/">Porfolio</a></li>
-<li>💬 Ask me about <b>React, Angular, Java, SpringBoot, Bootstrap, Tailwind</b></li>
+<li>💬 Ask me about <b>ReactJs, Angular, Java, SpringBoot, Bootstrap, Tailwind</b></li>
 <li>💻 Freelance Web Developer</li>
 <li>🧑‍🏫 Online Instructor</li>
 <li>⚡ Fun fact <b>I am creative and friendly</b>.</li>
