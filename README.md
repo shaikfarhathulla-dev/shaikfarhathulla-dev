@@ -7,7 +7,7 @@
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
 <!-- <h3 align="left">About Me</h3> -->
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
-<!-- <ul>
+<ul>
   <li>🔭 Currently building a <b>Learning Management System (LMS)</b></li>
   <li>
     👨‍💻 Explore all my projects here:
@@ -22,55 +22,7 @@
   <li>💻 Passionate <b>Freelance Web Developer</b></li>
   <li>🧑‍🏫 Dedicated <b>Online Instructor & Mentor</b></li>
   <li>⚡ Fun fact: <b>I love creating user-friendly and visually appealing web experiences</b></li>
-</ul> -->
-
-<div align="center">
-
-<table>
-<tr>
-<td width="600">
-
-<h2>🚀 About Me</h2>
-
-✨ Building modern and scalable web applications  
-🎯 Passionate about clean UI/UX and performance  
-
-<br>
-
-🔭 <b>Currently Working On</b>  
-&nbsp;&nbsp;&nbsp;&nbsp;📚 Learning Management System (LMS)
-
-<br><br>
-
-👨‍💻 <b>Portfolio</b>  
-&nbsp;&nbsp;&nbsp;&nbsp;🌐 
-<a href="https://shaikfarhathulla-dev.github.io/portfolio/" target="_blank">
-Visit My Portfolio
-</a>
-
-<br><br>
-
-💬 <b>Tech Stack</b>  
-&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React.js  
-&nbsp;&nbsp;&nbsp;&nbsp;🅰️ Angular  
-&nbsp;&nbsp;&nbsp;&nbsp;☕ Java & Spring Boot  
-&nbsp;&nbsp;&nbsp;&nbsp;🎨 Bootstrap & Tailwind CSS
-
-<br><br>
-
-💻 Freelance Web Developer  
-🧑‍🏫 Online Instructor & Mentor  
-
-<br>
-
-⚡ <i>"Creativity + Clean Code = Amazing Experiences"</i>
-
-</td>
-</tr>
-</table>
-
-</div>
-
+</ul>
 
 <br>
 
