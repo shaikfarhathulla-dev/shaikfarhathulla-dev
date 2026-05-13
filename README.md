@@ -7,12 +7,22 @@
 <img src="https://media.tenor.com/at27bgtYrKsAAAAi/purple-bat.gif" alt="Kawaii" width="100" height="100" align="right" />
 <!-- <h3 align="left">About Me</h3> -->
 <p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Shaik Farhathulla</b> </p>
-<li>🔭 I’m currently working on <b>Learning Management System</b>.</li>
-<li>👨‍💻 All of my projects are available at <a href="https://shaikfarhathulla-dev.github.io/portfolio/">Porfolio</a></li>
-<li>💬 Ask me about <b>ReactJs, Angular, Java, SpringBoot, Bootstrap, Tailwind</b></li>
-<li>💻 Freelance Web Developer</li>
-<li>🧑‍🏫 Online Instructor</li>
-<li>⚡ Fun fact <b>I am creative and friendly</b>.</li>
+<ul>
+  <li>🔭 Currently building a <b>Learning Management System (LMS)</b></li>
+  <li>
+    👨‍💻 Explore all my projects here:
+    <a href="https://shaikfarhathulla-dev.github.io/portfolio/" target="_blank">
+      My Portfolio
+    </a>
+  </li>
+  <li>
+    💬 Ask me about
+    <b>React.js, Angular, Java, Spring Boot, Bootstrap, and Tailwind CSS</b>
+  </li>
+  <li>💻 Passionate <b>Freelance Web Developer</b></li>
+  <li>🧑‍🏫 Dedicated <b>Online Instructor & Mentor</b></li>
+  <li>⚡ Fun fact: <b>I love creating user-friendly and visually appealing web experiences</b></li>
+</ul>
 
 
 <br>
